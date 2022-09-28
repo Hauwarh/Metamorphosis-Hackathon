@@ -1,5 +1,5 @@
 The data was collected by writing queries on the dune analytics platform.
-The query wriitten below
+The query wriiten is below
 
 ![image](https://user-images.githubusercontent.com/101065854/192803087-e293654f-7771-4e50-b947-2075c20d76b5.png)
 
